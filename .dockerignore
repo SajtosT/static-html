@@ -1,0 +1,15 @@
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+.git
+.gitignore
+
+.github/
+
+.vscode/
+.idea/
+
+__pycache__/
